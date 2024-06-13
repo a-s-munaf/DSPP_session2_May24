@@ -25,7 +25,8 @@ This is how i collected my data
 
 [Markdown sheet](https://www.markdownguide.org/cheat-sheet/)
 
-![python image](https://miro.medium.com/v2/resize:fit:1358/1*RzxZF0mmXAsMLrIzAWYDSg.png)
+![python image](https://i0.wp.com/statisticsbyjim.com/wp-content/uploads/2020/07/TimeSeriesTrade.png?fit=576%2C384&ssl=1)
+
 
 
 
