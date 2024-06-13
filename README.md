@@ -12,4 +12,7 @@ This is how i collected my data
 
 ### Headings 3
 
+# Image subsection
+
+![histogram](assets/histogram-example-2.png)
 
