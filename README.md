@@ -25,4 +25,7 @@ This is how i collected my data
 
 [Markdown sheet](https://www.markdownguide.org/cheat-sheet/)
 
+![python image](https://miro.medium.com/v2/resize:fit:1358/1*RzxZF0mmXAsMLrIzAWYDSg.png)
+
+
 
